@@ -1,4 +1,4 @@
-# To install java,jnekins,Nginx,Apache maven 
+# To install java,jnekins,Nginx,Apache maven.
 #!/bin/bash
 ### install jenkins
 `sudo apt-get update -y`
